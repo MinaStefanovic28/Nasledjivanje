@@ -10,6 +10,8 @@ public class Main {
         svetOkoNas.infoKnjige();
         System.out.println("Mina");
 
+        System.out.println("STEFAN");
+
 
 
     }
