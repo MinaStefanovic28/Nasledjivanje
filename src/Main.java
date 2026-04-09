@@ -12,7 +12,11 @@ public class Main {
 
         System.out.println("STEFAN");
 
+
+
         System.out.println("Novi tekst");
+
+
 
     }
 }
