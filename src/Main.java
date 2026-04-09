@@ -8,6 +8,8 @@ public class Main {
         ratIMir.infoKnjige();
         svetOkoNas.infoKnjige();
 
+        System.out.println("STEFAN");
+
 
 
     }
