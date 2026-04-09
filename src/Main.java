@@ -12,6 +12,8 @@ public class Main {
 
         System.out.println("STEFAN");
 
+        System.out.println("MINA UBACI DRUGI TEKST");
+
 
 
     }
